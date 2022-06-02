@@ -11,6 +11,9 @@ HELLO!
 
 Now making some more changes and edits to this file to correct mistakes
 
+Here is a change that someone made on Github
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
