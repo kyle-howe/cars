@@ -5,6 +5,8 @@ date: "6/2/2022"
 output: html_document
 ---
 
+HELLO!
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -24,6 +26,7 @@ summary(cars)
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
+plot(pressure)
 plot(pressure)
 ```
 
