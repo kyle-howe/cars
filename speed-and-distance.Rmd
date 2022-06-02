@@ -5,10 +5,17 @@ date: "6/2/2022"
 output: html_document
 ---
 
+
 HELLO!
+
+
+Now making some more changes and edits to this file to correct mistakes
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(usethis)
+
 ```
 
 ## R Markdown
